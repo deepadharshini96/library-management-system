@@ -46,7 +46,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:5174](http://localhost:5174) in your browser
+3. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ### Database Setup
 
