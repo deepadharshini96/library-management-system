@@ -47,6 +47,7 @@ npm run dev
 ```
 
 3. Open http://localhost:4174/ in your browser
+4. App live at https://biblion-app.deepa-biblion-2026.workers.dev/ .
 
 ### Database Setup
 
